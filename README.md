@@ -1,18 +1,18 @@
 
 ### Install
 Download the binary
-copy the bynary to /usr/local/bin <---- be sure this path is on your PATH
-rename it aws-mfa if it's darwing version
+* copy the bynary to /usr/local/bin <---- be sure this path is on your PATH
+* rename it aws-mfa if it's darwing version
 
 ### Configure AWS:
 
 Go to you ~/.aws/credentials and edit it
 
 Example with staging.
-    * Rename staging on staging-default
-    * Copy/past all section and remove the secrets
-    * rename the new one staging
-    * add the section aws_session_token
+* Rename staging on staging-default
+* Copy/past all section and remove the secrets
+* rename the new one staging
+* add the section aws_session_token
 
 ``` 
 [staging-default]
