@@ -1,7 +1,7 @@
 
 ### Install
 Download the binary
-* copy the bynary to /usr/local/bin <---- be sure this path is on your PATH
+* copy the binary to /usr/local/bin <---- be sure this path is on your PATH
 * rename it aws-mfa if it's darwing version
 
 ### Configure AWS:
